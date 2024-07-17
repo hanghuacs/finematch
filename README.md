@@ -1,6 +1,7 @@
 # FineMatch
 
-
+This repository contains the code and data for the paper FineMatch: Aspect-based Fine-grained Image
+and Text Mismatch Detection and Correction. This paper is accepted to ECCV 2024.
 
 If you find FineMatch useful for your work please cite:
 ```
