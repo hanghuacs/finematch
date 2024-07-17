@@ -1,6 +1,6 @@
 # FineMatch
 
-This repository contains the code and data for the ECCV 2024 paper [FineMatch: Aspect-based Fine-grained Image
+The official repository for the ECCV 2024 paper [FineMatch: Aspect-based Fine-grained Image
 and Text Mismatch Detection and Correction](https://arxiv.org/pdf/2404.14715).
 
 If you find FineMatch useful for your work please cite:
