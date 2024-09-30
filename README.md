@@ -14,4 +14,4 @@ If you find FineMatch useful for your work please cite:
 ```
 
 # License
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/hanghuacs/finematch/blob/main/LICENSE) file for details.
+This project is licensed under the ADOBE RESEARCH LICENSE - see the [LICENSE](https://github.com/hanghuacs/finematch/blob/main/LICENSE) file for details.
